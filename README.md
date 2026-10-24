@@ -1,3 +1,5 @@
+cat > README.md <<'**README_MD**'
+
 # learn-nvim
 
 Repo dokumentasi dan latihan belajar Neovim.
