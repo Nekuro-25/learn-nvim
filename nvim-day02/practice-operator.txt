@@ -1,0 +1,30 @@
+01 Delete this line to warm up.
+02 Keep this line.
+03 Delete this line too.
+04 Copy this line once.
+05 Change the word banana to orange.
+06 Change the word apple to mango.
+07 Delete the last two words of this sentence quickly.
+08 Copy the phrase "hello world" to somewhere else.
+09 Change the text inside "these quotes" to something new.
+10 Change the text inside (these parentheses) too.
+11 Duplicate this line below it.
+12 Delete this whole line with one command.
+13 This line has a typo: helo world.
+14 Use r to fix the typo in helo.
+15 Use R to replace the rest of this line freely.
+16 Delete from here to the end of the line quickly.
+17 Change from here to the end of the line.
+18 Keep this line for undo practice.
+19 Delete me, then undo, then redo.
+20 Count practice: delete me, delete me, delete me.
+21 Count practice: keep me, keep me, keep me.
+22 Yank this line and paste it twice below.
+23 Practice cw on this word.
+24 Practice ciw on this word too.
+25 Practice s on the letter x in the word boxx.
+26 Practice x to remove one character in this line.
+27 Use 3dd to delete the next three lines.
+28 Delete this line as part of the count.
+29 Delete this line as part of the count.
+30 Keep this final line as a marker.
