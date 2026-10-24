@@ -1,0 +1,31 @@
+01 Neovim adalah editor modal yang ringan.
+02 Normal mode adalah mode default.
+03 Tekan i untuk masuk insert mode.
+04 Tekan Esc untuk kembali ke normal mode.
+05 Gunakan h j k l untuk bergerak.
+06 w melompat ke awal kata berikutnya.
+07 b kembali ke awal kata sebelumnya.
+08 e menuju akhir kata saat ini.
+09 Angka nol menuju awal baris.
+10 Tanda dolar menuju akhir baris.
+11 gg menuju baris paling atas.
+12 G menuju baris paling bawah.
+13 Simpan file dengan perintah w.
+14 Keluar dari Neovim dengan perintah q.
+15 Gunakan wq untuk simpan lalu keluar.
+16 Gunakan q! untuk keluar tanpa simpan.
+17 Latihan ini fokus pada gerak dasar.
+18 Jangan gunakan panah saat latihan inti.
+19 Jangan gunakan mouse saat latihan inti.
+20 Catat setiap perintah baru di catatan.
+21 Ulangi gerak yang masih terasa canggung.
+22 Kecepatan datang dari repetisi yang tenang.
+23 Hentikan latihan jika mulai frustrasi.
+24 Tarik napas lalu lanjutkan perlahan.
+25 Baris ini hanya untuk latihan navigasi.
+26 Baris ini juga hanya untuk latihan.
+27 Kata kata di baris ini bisa dijadikan target.
+28 Pastikan kursor sampai akhir baris.
+29 Kembali ke awal baris tanpa mouse.
+30 Selesai latihan day satu.
+EOF

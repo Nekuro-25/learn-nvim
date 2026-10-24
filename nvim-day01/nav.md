@@ -11,7 +11,7 @@ w stand for word, moving forward and place cursor at the start of the word
 b stand for back, moving backward and place cursor at the start of the word
 e stand for end, moving forward and place cursor at the end of the word
 
-Third is 0, ^, $, gg, G
+Thir is:
 0 for moving cursor to the start of current line
 ^ for moving cursor to the first character on current line
 $ for moving cursor to the end of current line

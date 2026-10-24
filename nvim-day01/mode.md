@@ -4,12 +4,11 @@ There's 4 mode in Nvim (Neovim):
 
 1. Normal (For reading and navigating)
 
-Press escape to enter this mode, mainly used for navigating and operator.
-Press ctrl [ to enter this mode to enter Normal mode.
+Press escape or ctrl [ to enter this mode, mainly used for navigating and operator.
 
 2. Insert (For coding/inserting character)
 
-Press i, a, o to enter this mode:
+Press i, a, o or their capital version to enter this mode:
 i for inserting behind the cursor.
 a for inserting after cursor.
 o for inserting new line below and enter insert mode.
