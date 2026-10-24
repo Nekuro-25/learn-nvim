@@ -30,3 +30,18 @@ ctrl v for selecting block of code (Rectangular block).
 Press : (Colon) to enter this mode.
 Press / (Slash) to enter search forward.
 Press ? (Question mark) to enter search backward
+
+AI Version
+
+# Mode — Day 01
+
+- Normal: mode default, navigasi dan operator. Kembali dengan `Esc`.
+- Insert: mengetik teks. Masuk dengan `i`, `a`, `o`, `O`.
+  - `i` — insert sebelum kursor
+  - `a` — insert setelah kursor
+  - `o` — baris baru di bawah, lalu insert
+  - `O` — baris baru di atas, lalu insert
+- Visual: seleksi. Masuk dengan `v`, `V`, `Ctrl+v`.
+- Command-line: perintah dengan `:`.
+
+Jika bingung sedang di mode apa: tekan `Esc`, lalu coba `j` atau `k`.

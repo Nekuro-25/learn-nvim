@@ -17,3 +17,32 @@ Thir is:
 $ for moving cursor to the end of current line
 gg for moving cursor to the start of the document
 G for moving the cursor to the end of the document
+
+AI Version
+
+# Navigation — Day 01
+
+## Gerak dasar
+
+- `h` — kiri
+- `j` — bawah
+- `k` — atas
+- `l` — kanan
+
+## Gerak per kata
+
+- `w` — awal kata berikutnya
+- `b` — awal kata sebelumnya
+- `e` — akhir kata
+
+## Gerak per baris / file
+
+- `0` — awal baris
+- `^` — karakter pertama non-spasi
+- `$` — akhir baris
+- `gg` — baris paling atas
+- `G` — baris paling bawah
+
+## Aturan latihan
+
+Selama drill inti: tanpa mouse, tanpa arrow key.

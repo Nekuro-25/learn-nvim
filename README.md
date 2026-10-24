@@ -1,7 +1,57 @@
-Documentation repository for learning nvim
+# learn-nvim
 
-Day 01:
+Repo dokumentasi dan latihan belajar Neovim.
 
-Navigation
-Mode
-Command
+## Progress
+
+- [x] Day 1 — Mode, Navigation, Command
+- [ ] Day 2 — Operator & Motion
+- [ ] Day 3 — Insert & Change
+- [ ] Day 4 — Visual & Undo
+- [ ] Day 5 — Search & Replace
+- [ ] Day 6 — Save, Quit, Leader, Messages
+- [ ] Day 7 — Checkpoint Minggu 1
+
+## Struktur
+
+```text
+learn-nvim/
+├── README.md
+├── catatan-nvim.md
+└── nvim-day01/
+    ├── mode.md
+    ├── nav.md
+    ├── command.md
+    ├── latihan-day1.txt
+    └── checkpoint-day1.md
+```
+
+## Cara latihan Day 1
+
+```bash
+cd nvim-day01
+nvim latihan-day1.txt
+```
+
+Buka `checkpoint-day1.md` setelah latihan.
+
+## Aturan latihan
+
+- Tanpa mouse.
+- Tanpa arrow key selama drill inti.
+- Simpan dengan `:w` atau `Space w`.
+- Kalau ada yang aneh, cek `:messages`.
+  EOF
+
+# 8. Catatan pribadi
+
+cat > catatan-nvim.md <<'EOF'
+
+# Catatan Neovim
+
+## Day 1 — Mode & gerak dasar
+
+- Hal baru:
+- Keymap/perintah:
+- Error/aneh:
+- Yang masih canggung:
