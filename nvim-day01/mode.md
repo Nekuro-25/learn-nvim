@@ -1,47 +1,33 @@
 # Mode in Neovim
 
-There's 4 mode in Nvim (Neovim):
+There are 4 modes in Neovim. If you are unsure which mode you are in, press `Esc`, then try `j` or `k`.
 
-1. Normal (For reading and navigating)
+## 1. Normal — for reading and navigating
 
-Press escape or ctrl [ to enter this mode, mainly used for navigating and operator.
+Press `Esc` or `Ctrl+[` to enter this mode. Mainly used for navigating and operators.
 
-2. Insert (For coding/inserting character)
+## 2. Insert — for coding and inserting characters
 
-Press i, a, o or their capital version to enter this mode:
-i for inserting behind the cursor.
-a for inserting after cursor.
-o for inserting new line below and enter insert mode.
+Press `i`, `a`, `o`, or their capital versions:
 
-There's capital version of these button, (I, A, O):
-I for inserting at the start of line.
-A for inserting at the end of line.
-O for inserting new line above and enter insert mode on your current line.
+- `i` — insert before the cursor.
+- `a` — insert after the cursor.
+- `o` — insert a new line below and enter insert mode.
+- `I` — insert at the start of the line.
+- `A` — insert at the end of the line.
+- `O` — insert a new line above and enter insert mode.
 
-3. Visual (For mass editing)
+## 3. Visual — for mass editing
 
-Press v, V, ctrl v to enter this mode:
-v for selecting character by character.
-V for selecting 1 line.
-ctrl v for selecting block of code (Rectangular block).
+Press `v`, `V`, or `Ctrl+v`:
 
-4. Command (For using command in Nvim)
+- `v` — select character by character.
+- `V` — select one line.
+- `Ctrl+v` — select a rectangular block of code.
 
-Press : (Colon) to enter this mode.
-Press / (Slash) to enter search forward.
-Press ? (Question mark) to enter search backward
+## 4. Command — for using commands in Neovim
 
-AI Version
+Press `:` (colon) to enter command mode.
 
-# Mode — Day 01
-
-- Normal: mode default, navigasi dan operator. Kembali dengan `Esc`.
-- Insert: mengetik teks. Masuk dengan `i`, `a`, `o`, `O`.
-  - `i` — insert sebelum kursor
-  - `a` — insert setelah kursor
-  - `o` — baris baru di bawah, lalu insert
-  - `O` — baris baru di atas, lalu insert
-- Visual: seleksi. Masuk dengan `v`, `V`, `Ctrl+v`.
-- Command-line: perintah dengan `:`.
-
-Jika bingung sedang di mode apa: tekan `Esc`, lalu coba `j` atau `k`.
+- `/` — search forward.
+- `?` — search backward.

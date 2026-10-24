@@ -1,32 +1,23 @@
-using : to enter command mode (to communicate with nvim)
+# Command in Neovim
 
-:w stand for write, to save your current change in document
-:q stand for quit, to quitting the document you're currently edit
-:wq for combo wombo, save and quit document
-:q! for quit force, quit and not saving your changes in document
-:message for checking error
+Use `:` to enter command mode and communicate with Neovim.
 
-custom nvim (my custom), i use space for leader
-<leader>w for save
-<leader>q for quit
+## Save and quit
 
-AI Version
+- `:w` — write: save your current changes in the document.
+- `:q` — quit: quit the document you are currently editing.
+- `:wq` — combo wombo: save and quit.
+- `:q!` — quit force: quit and do not save your changes.
+- `:messages` — check recent messages and errors.
 
-# Command — Day 01
+## Custom config (Ice Night)
 
-## Simpan dan keluar
+Leader is `Space`.
 
-- `:w` — simpan
-- `:q` — keluar
-- `:wq` — simpan lalu keluar
-- `:q!` — keluar tanpa simpan
+- `<leader>w` — save.
+- `<leader>q` — quit.
+- `<leader>w` is **not** window. Window uses `Ctrl+w`, then `h/j/k/l`.
 
-## Config Ice Night
+## If something feels weird
 
-- `<leader>w` — simpan. Leader = `Space`, jadi tekan `Space` lalu `w`.
-- `<leader>q` — keluar.
-- `<leader>w` **bukan** window. Window memakai `Ctrl+w` lalu `h/j/k/l`.
-
-## Cek masalah
-
-- `:messages` — lihat pesan/error terakhir.
+Check `:messages` first.

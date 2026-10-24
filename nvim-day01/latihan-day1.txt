@@ -28,4 +28,3 @@
 28 Pastikan kursor sampai akhir baris.
 29 Kembali ke awal baris tanpa mouse.
 30 Selesai latihan day satu.
-EOF

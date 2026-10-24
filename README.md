@@ -25,33 +25,3 @@ learn-nvim/
     ├── latihan-day1.txt
     └── checkpoint-day1.md
 ```
-
-## Cara latihan Day 1
-
-```bash
-cd nvim-day01
-nvim latihan-day1.txt
-```
-
-Buka `checkpoint-day1.md` setelah latihan.
-
-## Aturan latihan
-
-- Tanpa mouse.
-- Tanpa arrow key selama drill inti.
-- Simpan dengan `:w` atau `Space w`.
-- Kalau ada yang aneh, cek `:messages`.
-  EOF
-
-# 8. Catatan pribadi
-
-cat > catatan-nvim.md <<'EOF'
-
-# Catatan Neovim
-
-## Day 1 — Mode & gerak dasar
-
-- Hal baru:
-- Keymap/perintah:
-- Error/aneh:
-- Yang masih canggung:
